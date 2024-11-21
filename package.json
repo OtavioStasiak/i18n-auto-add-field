@@ -1,0 +1,11 @@
+{
+  "name": "i18n-add-field",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "google-translate-api-x": "^10.7.1"
+  }
+}
